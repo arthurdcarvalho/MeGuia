@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Were</string>
+    <string name="app_name">MeGuia</string>
+
+    <string name="image_description">description</string>
 </resources>
